@@ -15,3 +15,10 @@
 
 Se conseguir síncrona/assíncrona:
 - Receber uma resposta assíncrona de quando o e-mail com o certificado foi enviado;
+
+## Informações extra
+
+- REST (latência)
+- Redis / RabbitMQ / **Kafka**;
+
+- Nubank, Uber, Paypal, Netflix;
